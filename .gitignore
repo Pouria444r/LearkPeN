@@ -1,0 +1,6 @@
+# Windows executables and packaged dependencies belong in Releases
+*.exe
+*.zip
+*.log
+.DS_Store
+settings.json
