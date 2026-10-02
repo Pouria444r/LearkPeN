@@ -1,12 +1,16 @@
 # LearkPeN
 
+**Developed by learkcompany.**
+
+LearkPeN is a learkcompany project. The LearkPeN application and its original project code are attributed to learkcompany. Third-party components retain their own copyrights and license terms.
+
 Use an iPad and Apple Pencil to control and write in a Windows workspace over USB.
 
 ## Release v0.0.10
 
 This repository publishes the iPad source code. The Windows installer and portable ZIP belong in GitHub Releases.
 
-The iPad app remains v0.0.9; Windows v0.0.10 accepts that protocol. This release updates the Windows companion. The original Swift source has not been relabeled or changed for publication.
+The iPad app remains v0.0.9; Windows v0.0.10 accepts that protocol. This release updates the Windows companion. The application version is unchanged; source headers identify learkcompany.
 
 ## Run on iPad
 
@@ -38,5 +42,7 @@ Liquid Glass requires a compatible SDK/compiler and iPadOS version; older toolch
 The iPad source is publicly viewable. No open-source license has been selected yet; publication alone does not grant an open-source license.
 
 ## فارسی
+
+**LearkPeN محصول learkcompany است.** نام سازنده در معرفی پروژه و سربرگ کد اصلی درج شده است. حقوق و مجوزهای کتابخانه‌ها و اجزای شخص ثالث متعلق به صاحبان همان اجزا است.
 
 کد آیپد عمومی است. نصب‌کننده و ZIP ویندوز در بخش Releases منتشر می‌شوند. نسخهٔ آیپد ۰.۰.۹ است و با نسخهٔ ویندوز ۰.۰.۱۰ کار می‌کند. فایل Swift شامل @main است؛ ورودی MyApp پروژهٔ پیش‌فرض را حذف کن تا فقط یک @main باقی بماند.
