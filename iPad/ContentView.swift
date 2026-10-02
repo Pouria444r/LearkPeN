@@ -1,3 +1,7 @@
+// LearkPeN — learkcompany
+// Copyright (c) 2026 learkcompany.
+// Original LearkPeN project code; third-party components retain their own terms.
+
 // Pencil Bridge v0.0.9
 import SwiftUI
 import UIKit
